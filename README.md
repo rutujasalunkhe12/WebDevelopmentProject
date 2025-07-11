@@ -59,6 +59,7 @@ Username: some@gmail.com
 Password: some
 <img width="1873" height="997" alt="Screenshot 2025-07-11 102439" src="https://github.com/user-attachments/assets/dccb0253-2302-4923-b995-f4e8ebd4a513" />
 <img width="1841" height="987" alt="Screenshot 2025-07-11 102703" src="https://github.com/user-attachments/assets/fe324d5c-a6d3-4046-839c-b059d7ba7b43" />
+<img width="1907" height="997" alt="Screenshot 2025-07-11 103557" src="https://github.com/user-attachments/assets/be2b2dd2-4bc6-4314-8cf5-df1c08251698" />
 <img width="1918" height="946" alt="Screenshot 2025-07-11 102812" src="https://github.com/user-attachments/assets/9f31170b-b4d8-4f6f-b285-557fd88bbc90" />
 
 - Click On `View all Customer` from Navigation OR `Get Started` button for viewing detail of all Customers.
